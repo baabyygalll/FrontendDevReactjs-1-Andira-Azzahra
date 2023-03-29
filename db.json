@@ -1,0 +1,75 @@
+{
+    "restaurants": [
+        {   "id" : 1,
+            "name" : "El Asador South American Restaurants",
+            "rate" : "★★★★★",
+            "categories" : "American",
+            "price" : "$5 - $10",
+            "status" : "OPEN NOW",
+            "image" : "img/american-restaurant.jpg"
+        },
+         {
+           "id": 2,
+           "name": "Picante Mexican Grill",
+           "rate": "★★★★✰",
+           "categories": "Mexican",
+           "price": "$11 - $40",
+           "status": "CLOSED",
+           "image": "img/mexican-restaurant.png"
+         },
+          {
+            "id": 3,
+            "name": "ZHAI SUSHI",
+            "rate": "★★★✰✰",
+            "categories": "Japanese",
+            "price": "$41 - $100",
+            "status": "CLOSED",
+            "image": "img/japanese-restaurant.png"
+          },
+          {
+            "id": 4,
+            "name": "Azama Sushi & Teppan",
+            "rate": "★★★✰✰",
+            "categories": "Japanese",
+            "price": "$41 - $100",
+            "status": "OPEN NOW",
+            "image": "img/japanese-restaurant-2.png"
+          },
+          {
+            "id": 5,
+            "name": "Baegopa!",
+            "rate": "★★★★★",
+            "categories": "Korean",
+            "price": "$41 - $100",
+            "status": "OPEN NOW",
+            "image": "img/korean-restaurant.png"
+          },
+           {
+             "id": 6,
+             "name": "The Safe House",
+             "rate": "★★★★✰",
+             "categories": "American",
+             "price": "$41 - $100",
+             "status": "OPEN NOW",
+             "image": "img/american-restaurant-2.png"
+           },
+             {
+               "id": 7,
+               "name": "The BAB Amsterdam Oost",
+               "rate": "★★★★✰",
+               "categories": "Korean",
+               "price": "$5 - $10",
+               "status": "OPEN NOW",
+               "image": "img/korean-restaurant-2.png"
+             },
+               {
+                 "id": 8,
+                 "name": "Coquito",
+                 "rate": "★★★★★",
+                 "categories": "Mexican",
+                 "price": "$11 - $40",
+                 "status": "CLOSED",
+                 "image": "img/mexican-restaurant2222.png"
+               }
+    ]
+}

@@ -1,0 +1,28 @@
+.card{
+    margin-right: 1.5rem;
+    min-height: 430px;
+    margin-top: 2.5rem;
+   
+}
+
+.wrapper{
+   max-width: 260px;
+}
+
+.dotStatus{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    display: flex;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.openNow{
+    display: flex;
+    color: #808080;
+}
+
+.categoriesPrice{
+    color: #808080;
+}
